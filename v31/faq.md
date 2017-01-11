@@ -4,7 +4,7 @@ description: Vu que comme ça, ça marche pas vraiment, si on faisait autrement 
 image_url: https://github.com/walkingdev/elm/blob/master/v33/media/banner-elm.jpg?raw=true
 ---
 
-# Session écrire des logiciels autrement - V-31
+# Session Écrire du logiciel autrement - V-31
 
 ## FAQ
 
