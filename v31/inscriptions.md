@@ -10,3 +10,5 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/logiciel-a
 
 * *nom - prénom - moyens de contact 
 * Vernois - Antoine - @avernois
+
+* Langlois - Stéphane - @langlois_s
