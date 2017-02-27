@@ -15,3 +15,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/logiciel-a
 * Tregan - Fabien - @ftregan
 * Pradel - Ludovic - @ludopradel
 * Plaindoux - Didier - @dplaindoux
+* Cezar - Antoine - @AntoineCezar
