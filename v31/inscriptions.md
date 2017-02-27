@@ -14,3 +14,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/logiciel-a
 * Langlois - Stéphane - @langlois_s
 * Tregan - Fabien - @ftregan
 * Pradel - Ludovic - @ludopradel
+* Plaindoux - Didier - @dplaindoux
