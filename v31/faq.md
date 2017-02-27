@@ -8,7 +8,7 @@ image_url: https://github.com/walkingdev/logiciel-autrement/blob/master/v31/desi
 
 ## FAQ
 
-L’objectif de cette rencontre est d’échanger ensemble sur des nouvelles manières de concevoir du logiciel. 
+L’objectif de cette rencontre est d’échanger ensemble sur des nouvelles manières de concevoir du logiciel. Elle aura lieu le vendredi 10 mars 2017 dans Toulouse.
 
 ### Pourquoi
 Nous sommes dans un métier encore très jeune qui a encore tout à découvrir, mais aujourd’hui on a l’impression de se retrouver face à un status quo dans l’évolution de nos pratiques. 
@@ -40,7 +40,7 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 10 mars 2017, dans le centre de Toulouse, on sera plus précis sur le lieu quand on saura.
+La marche commencera le 10 mars 2017 à 9h30, dans le centre de Toulouse, on sera plus précis sur le lieu quand on saura.
 Et, ça se termine vers 18h00 pour enchainer, si vous voulez, sur des trucs encore plus informels.
 
 ### C'est pour qui ?
