@@ -12,4 +12,5 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/logiciel-a
 * Vernois - Antoine - @avernois
 * Carvalho - Rui - @rhwy
 * Langlois - Stéphane - @langlois_s
+* Tregan - Fabien - @ftregan
 * Pradel - Ludovic - @ludopradel
