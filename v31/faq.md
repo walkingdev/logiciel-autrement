@@ -40,7 +40,7 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 10 mars 2017 à 9h30, dans le centre de Toulouse, on sera plus précis sur le lieu quand on saura.
+La marche commencera le 10 mars 2017 à 9h30, au Home Sweet Café - 54 rue peyroliere.
 Et, ça se termine vers 18h00 pour enchainer, si vous voulez, sur des trucs encore plus informels.
 
 ### C'est pour qui ?
