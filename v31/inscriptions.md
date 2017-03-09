@@ -16,3 +16,5 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/logiciel-a
 * Pradel - Ludovic - @ludopradel
 * Plaindoux - Didier - @dplaindoux
 * Cezar - Antoine - @AntoineCezar
+* Meste - Yoann - @YMes00
+
